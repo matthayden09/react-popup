@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-popup/static/css/main.fd91b640.chunk.css",
+    "main.js": "/react-popup/static/js/main.437e98ed.chunk.js",
+    "main.js.map": "/react-popup/static/js/main.437e98ed.chunk.js.map",
+    "runtime-main.js": "/react-popup/static/js/runtime-main.1948b3c8.js",
+    "runtime-main.js.map": "/react-popup/static/js/runtime-main.1948b3c8.js.map",
+    "static/js/2.502d5590.chunk.js": "/react-popup/static/js/2.502d5590.chunk.js",
+    "static/js/2.502d5590.chunk.js.map": "/react-popup/static/js/2.502d5590.chunk.js.map",
+    "static/js/3.091c8511.chunk.js": "/react-popup/static/js/3.091c8511.chunk.js",
+    "static/js/3.091c8511.chunk.js.map": "/react-popup/static/js/3.091c8511.chunk.js.map",
+    "index.html": "/react-popup/index.html",
+    "static/css/main.fd91b640.chunk.css.map": "/react-popup/static/css/main.fd91b640.chunk.css.map",
+    "static/js/2.502d5590.chunk.js.LICENSE.txt": "/react-popup/static/js/2.502d5590.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1948b3c8.js",
+    "static/js/2.502d5590.chunk.js",
+    "static/css/main.fd91b640.chunk.css",
+    "static/js/main.437e98ed.chunk.js"
+  ]
+}
